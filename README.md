@@ -1,11 +1,13 @@
 # README
 
-This is the repo that goes along with my Fullstack E-Commerce app tutorial. Check it out here https://youtu.be/hURUMwdCWuI?si=YxSO5hpRAESz6rEU
 
-Things you may want to cover:
+Here is a full-stack ecommerce application.
 
 * Ruby version
 `3.2.2`
+
+* Rails version
+`7.1.2`
 
 * Configuration
 Add your env variables to the `config/credentials.yml.enc` file. You can do this by running `bin/rails credentials:edit`
